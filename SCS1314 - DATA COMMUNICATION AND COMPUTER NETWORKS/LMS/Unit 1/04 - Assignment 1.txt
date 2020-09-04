@@ -1,0 +1,12 @@
+1. . ------ is the variation in the packet arrival time
+2. The number of connections in a full mesh topology is
+3. ISO stands for ----
+4. In half duplex, the mode of communication is -----
+5. The number of bits sent per second is defined by ----
+6. What are the components in a Data Communication system
+7. In computer networks exchanging data is done between two devices over 
+8. How many components are there in a Data Communication system
+9. All hosts in which topology are connected to a central device, known as hub device.
+10. In which topology ,each device has a dedicated point-to-point line configuration only with the two devices on either side of it.
+
+11. List the layers of OSI model and describe the responsibilities of each layer
