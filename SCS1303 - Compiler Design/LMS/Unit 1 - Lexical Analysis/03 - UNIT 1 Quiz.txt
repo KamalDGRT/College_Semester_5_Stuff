@@ -1,0 +1,41 @@
+1. The Analysis part of the compiler includes,(select all that apply)
+   a. Code Optimizer
+   b. Semantic Analyzer
+   c. Lexical Analyzer
+   d. Syntax Analyzer
+   e. Code Generator
+
+2. Choose the correct statements with respect to compiler and assembler:
+    a. Compiler is a computer program used to convert programming language to object code.
+    b. Assembler is a computer program that converts assembly language code into machine executable code.
+    c. The output from assembler is given as input to the compiler.
+    d. The output from compiler is given as input to assembler.
+
+
+   A. a,b and d
+   B. a and c
+   C. a,b and c
+   D. b and c
+   E. b and d
+
+3. The regular expression a* denotes the set:
+  
+   a. {ε,a,aa,aaa,aaaa,….}
+   b. Null set
+   c. {a,aa,aaa,aaaa,…….}
+   d. {aa,aaaa,aaaaaa,….}
+
+4. Match the following with correct options.
+   a. Lexical Phase                                 -  (1). Parse tree
+   b. Syntax Phase                                -   (2). Three address code
+   c. Code Generator                            -  (3). Tokens
+   d. Intermediate code generator       -  (4). Assembly code
+
+   A. a-3,b-1,c-4,d-2
+   B. a-1,b-4,c-2,d-3
+   C. a-1,b-3,c-4,d-2
+   D. a-3,b-1,c-2,d-4
+
+5.  A ------------- is a sequence of characters that is matched by the pattern for a token.
+
+

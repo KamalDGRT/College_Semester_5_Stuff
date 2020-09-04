@@ -1,0 +1,6 @@
+COURSE OBJECTIVES:
+
+1. The Objectives of this course is to explore the principles, algorithms, and data structures involved in the design and construction of compilers. Compiler Design will teach students the fundamental concepts and techniques used for building a simple compiler. 
+2. The course will introduce the theory and tools that can be employed in order to perform syntax-directed translation of a high-level programming language into an executable code.
+3. This course includes context-free grammars, lexical analysis, parsing techniques, symbol tables, error recovery, code generation, and code optimization.
+4. At the end of the course, students will understand different considerations and phases of compilation, the impact of language attributes upon the compilation process, the effect of hardware feature on the generated code and the practical fundamentals of compiler implementation.
