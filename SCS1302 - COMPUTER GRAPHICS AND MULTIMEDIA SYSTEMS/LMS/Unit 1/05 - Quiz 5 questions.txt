@@ -1,0 +1,29 @@
+1. Pixel definition is stored in a memory location called.................
+   a. Refresh buffer   
+   b. Refresh display file
+   c. All of the above
+   d. Frame Buffer
+
+
+2. --------------------- is used to choose the next correct pixel in Bresenham's line drawing algorithm.
+   a. Decision Parameter, P
+   b. Fill Style Parameter, F
+   c. Attribute Parameter, A
+
+
+3) The function used to get the maximum screen coordinates in C graphics is ...................................
+
+   a. get_maximumxy()
+   b. getmaxx() & getmaxy()
+   c. getx() & gety()
+   d. getmaximum_xy()
+
+4) Bresenham's employs floating point and rounding off operations.
+   Select one:
+       True
+       False
+
+5) The image quality seems good when the number of pixels are …………
+    a. Higher
+    b. Lesser
+    c. Both Higher and lesser
